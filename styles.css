@@ -1,5 +1,11 @@
-h1, p {
+.home h1, .home p {
   text-align: center;
+}
+
+.home ul {
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
 }
 
 img {
